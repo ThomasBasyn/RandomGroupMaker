@@ -15,11 +15,11 @@ step 4) take the .exe file out of the map and put it somewhere you like
 
 ![image](https://github.com/ThomasBasyn/RandomGroupMaker/assets/160137514/9800626b-b00d-4448-b0fd-4267285e7df5)
 
-step 5) make a map named "klassen" on your desktop
+step 5) make a folder named "klassen" on your desktop
 
 step 6) make a .txt file and put the names in the file separated by spaces example "1 2 3 4 5"
 
-step 7) open the .exe file and it will show all the .txt files in your map "klassen" on your desktop
+step 7) open the .exe file and it will show all the .txt files in your folder "klassen" on your desktop
 
 ![image](https://github.com/ThomasBasyn/RandomGroupMaker/assets/160137514/50a6f132-b2cb-4b88-a462-e15e627d4d74)
 
